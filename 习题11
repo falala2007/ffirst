@@ -6,3 +6,4 @@ for i in range(3,25):
     a,b = b,a+b
     la.append(b)
 print(la)
+la 是存放列表用，k没什么用。。。
