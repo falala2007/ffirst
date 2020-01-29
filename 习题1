@@ -11,7 +11,10 @@ for i in range(1,5):
                 print(i,j,k)
 <<<<<<< HEAD
                 print(i,j,k)
+<<<<<<< HEAD
                 1
                 
 =======
 >>>>>>> parent of 1624f9d... 标题我定为　新的习题1
+=======
+>>>>>>> parent of 8ce2aa7... 标题我定为　新的习题1
