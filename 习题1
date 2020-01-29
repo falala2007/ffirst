@@ -9,12 +9,14 @@ for i in range(1,5):
                 pass
             else:
                 print(i,j,k)
-<<<<<<< HEAD
                 print(i,j,k)
 <<<<<<< HEAD
                 1
                 
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 1624f9d... 标题我定为　新的习题1
 =======
 >>>>>>> parent of 8ce2aa7... 标题我定为　新的习题1
+=======
+>>>>>>> parent of 9720ad6... Update 习题1
