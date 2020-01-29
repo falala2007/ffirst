@@ -9,4 +9,6 @@ for i in range(0,7):
     else:
         k = (m - jj[i-1])*bl[i]+k
         print(k)
+        print(k)
+        
         break
